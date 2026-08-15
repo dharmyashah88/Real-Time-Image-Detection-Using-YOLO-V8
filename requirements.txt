@@ -1,6 +1,5 @@
-# YOLOv8 Streamlit Application Dependencies
 streamlit
 ultralytics
 opencv-python-headless
-numpy
+numpy<2
 Pillow
