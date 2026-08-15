@@ -1,0 +1,6 @@
+# YOLOv8 Streamlit Application Dependencies
+streamlit
+ultralytics
+opencv-python-headless
+numpy
+Pillow
